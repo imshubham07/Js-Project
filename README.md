@@ -1,7 +1,7 @@
 # Some JavaScript Project for Beginner
 
 ## project link
-[Click here](https://js-project-shubham.netlify.app)
+[Click here](https://js-project-eta-peach.vercel.app/)
 
 ## Project Name 
 ### Project 1 - color Changer 🔥

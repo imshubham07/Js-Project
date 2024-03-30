@@ -8,3 +8,5 @@
 ### Project 2 - BMI Generator ☕️
 ### Project 3 - Digital clock 😎
 ### Project 4 - Guess the number 🤨
+### Project 5 - Keyboard check 👻
+### Project 6 - Unlimited Colors 🧠
